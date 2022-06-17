@@ -1,2 +1,2 @@
 # rifan-git-test
-repo untuk membuat git repo
+repo untuk mencoba git remote
